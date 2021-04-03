@@ -1,0 +1,19 @@
+.title {
+  font-family: system-ui;
+  text-align: center;
+  font-size: 15px;
+}
+body {
+  background-image: url("https://i.pinimg.com/564x/8f/ae/6d/8fae6d951d1185af28b7c73c72ccaf00.jpg");
+  background-repeat: repeat;
+  background-size: auto;;
+}
+
+.all {
+
+  display: table;
+  margin: auto;
+
+}
+
+

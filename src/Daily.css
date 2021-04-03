@@ -1,0 +1,60 @@
+.day {
+  text-align: center;
+  font-family: system-ui;
+  list-style-position: inside;
+  padding: 50px;
+  font-size: 25px;
+}
+.day h2 {
+  font-size: 25px;
+  font-family: system-ui;
+}
+.doneTask{
+  text-decoration: line-through;
+
+}
+.input {
+  border-radius: 8px;
+  font-size: 20px;
+  font-family: system-ui;
+}
+.button {
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 10px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 8px;
+}
+.delete {
+  background-color: white;
+  color: black;
+  border: 2px solid #727070;
+}
+.delete:hover {
+  background-color: #727070;
+  color: white;
+}
+.add {
+  background-color: white;
+  color: black;
+  border: 2px solid #727070;
+  border-radius: 5px;
+}
+.add:hover {
+  background-color: #727070;
+  color: white;
+}
+.check {
+  background-color: white;
+  color: black;
+  border: 2px solid #727070;
+}
+.check:hover {
+  background-color: #727070;
+  color: white;
+}
